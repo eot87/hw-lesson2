@@ -1,2 +1,2 @@
 # hw-lesson2
-google_test with using pytest framework
+test_google with using pytest framework
